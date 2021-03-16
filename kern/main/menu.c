@@ -559,6 +559,7 @@ static const char *opsmenu[] = {
 	"[panic]   Intentional panic         ",
 	"[deadlock] Intentional deadlock     ",
 	"[q]       Quit and shut down        ",
+	"[milsugi] It is what it is          ",
 	NULL
 };
 
